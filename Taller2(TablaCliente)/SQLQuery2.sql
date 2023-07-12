@@ -1,0 +1,1 @@
+ALTER TABLE [dbo].[Usuario2] ADD UNIQUE  (Cedula)

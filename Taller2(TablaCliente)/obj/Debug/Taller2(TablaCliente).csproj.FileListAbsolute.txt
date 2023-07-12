@@ -1,0 +1,14 @@
+C:\Users\Leandro\Desktop\Practica Visual Studio\Taller2(TablaCliente)\obj\Debug\Taller2(TablaCliente).csproj.AssemblyReference.cache
+C:\Users\Leandro\Desktop\Practica Visual Studio\Taller2(TablaCliente)\obj\Debug\Taller2(TablaCliente).csproj.SuggestedBindingRedirects.cache
+C:\Users\Leandro\Desktop\Practica Visual Studio\Taller2(TablaCliente)\obj\Debug\Taller2_TablaCliente_.Form1.resources
+C:\Users\Leandro\Desktop\Practica Visual Studio\Taller2(TablaCliente)\obj\Debug\Taller2_TablaCliente_.Incluir.resources
+C:\Users\Leandro\Desktop\Practica Visual Studio\Taller2(TablaCliente)\obj\Debug\Taller2_TablaCliente_.Properties.Resources.resources
+C:\Users\Leandro\Desktop\Practica Visual Studio\Taller2(TablaCliente)\obj\Debug\Taller2(TablaCliente).csproj.GenerateResource.cache
+C:\Users\Leandro\Desktop\Practica Visual Studio\Taller2(TablaCliente)\obj\Debug\Taller2(TablaCliente).csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Practica Visual Studio\Taller2(TablaCliente)\bin\Debug\Taller2(TablaCliente).exe.config
+C:\Users\Leandro\Desktop\Practica Visual Studio\Taller2(TablaCliente)\bin\Debug\Taller2(TablaCliente).exe
+C:\Users\Leandro\Desktop\Practica Visual Studio\Taller2(TablaCliente)\bin\Debug\Taller2(TablaCliente).pdb
+C:\Users\Leandro\Desktop\Practica Visual Studio\Taller2(TablaCliente)\obj\Debug\Taller2(TablaCliente).exe
+C:\Users\Leandro\Desktop\Practica Visual Studio\Taller2(TablaCliente)\obj\Debug\Taller2(TablaCliente).pdb
+C:\Users\Leandro\Desktop\Practica Visual Studio\Taller2(TablaCliente)\obj\Debug\Taller2_TablaCliente_.Modificar.resources
+C:\Users\Leandro\Desktop\Practica Visual Studio\Taller2(TablaCliente)\obj\Debug\Taller2_TablaCliente_.Mostrar.resources
