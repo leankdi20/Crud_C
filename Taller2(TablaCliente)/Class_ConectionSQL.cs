@@ -25,7 +25,7 @@ namespace Taller2_TablaCliente_
             this.server = "DESKTOP-31MUM0G";
             this.database = "Ventas";
 
-            // ejemplo
+            // Cristhian desde el host de Leandro
 
             //Hace conexion con el servidor y lo hace seguro para el usuario
             connectionString = $"Server={server};Database={database}; integrated security = true; ";
