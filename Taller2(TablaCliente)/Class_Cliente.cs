@@ -60,6 +60,8 @@ namespace Taller2_TablaCliente_
             try
             {
 
+                // LEANDRO acá deberías abrir la conexión
+
                 String cadena = "insert into Clientes (Codigo, Nombre, Direccion, provincia, Telefono, CorreoElectronico)"
                 + " values ( '" + int.Parse(codigo) + "' , '" + nombre + "' , '" + direccion + "' , '"+ provincia+ "' , '" + int.Parse(telefono) + "' , '" + correoElectronico + "' )";
 
