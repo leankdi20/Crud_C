@@ -24,6 +24,7 @@ namespace Taller2_TablaCliente_
             Incluir agregar = new Incluir();    
             agregar.Show();
             cliente.llenar_tabla();
+            // prueba
 
         }
 
